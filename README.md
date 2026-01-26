@@ -1,4 +1,10 @@
 ## Hi there, stalker 👋
+I'm a versatile software developer with experience in producing robust systems to meet diverse customer needs, i also explore technical capabilities and push boundaries to exceed expectations.
+
+📫 You can reach me via Gmail: miftahudeentajudeen@gmail.com, Twitter: @TrQuilox87
+
+Languages and Tools:
+aws  solidity next.js fastify node.js postgresql bash bootstrap docker git html5 javascript kubernetes laravel linux mongodb mysql nginx php postman python redis sqlite symfony
 
 <!--
 **0xQuilox/0xQuilox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
