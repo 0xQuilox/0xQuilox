@@ -3,7 +3,6 @@ I'm a versatile software developer with experience in producing robust systems t
 
 📫 You can reach me via Gmail: miftahudeentajudeen@gmail.com, Twitter: @TrQuilox87
 
-## Languages and Tools:
 ## 🧰 Languages & Tools
 
 <p align="left">
