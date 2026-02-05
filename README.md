@@ -1,7 +1,7 @@
 ## Hi there, stalker 👋
 I'm a versatile software developer with experience in producing robust systems to meet diverse customer needs, i also explore technical capabilities and push boundaries to exceed expectations.
 
-📫 You can reach me via Gmail: miftahudeentajudeen@gmail.com, Twitter: @TrQuilox87
+📫 You can reach me via Gmail: miftahudeentajudeen@gmail.com, Twitter: https://x.com/TrQuilox87
 
 ## 🧰 Languages & Tools
 
