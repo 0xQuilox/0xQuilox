@@ -1,4 +1,4 @@
-## 🚀 Hi, I’m Miftahudeen (aka 0xQuilox)
+## Hi, I’m Miftahudeen (aka 0xQuilox)
 
 I build **scalable backend systems, real-time applications, and production-grade architectures**.
 
