@@ -86,19 +86,12 @@ I don’t just write code — I think in terms of:
 
 ## 📫 Let’s Work Together
 
-I’m open to:
-- Backend / Systems Engineering roles  
+I’m open to: 
 - Freelance & contract work  
 - Building scalable products from idea → production  
 
 📧 Email: **miftahudeentajudeen@gmail.com**  
 🐦 Twitter/X: https://x.com/TrQuilox87  
-
----
-
-## ⚡ Fun Fact
-
-I enjoy building systems that *don’t break when things go wrong*.
 
 ---
 
