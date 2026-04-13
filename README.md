@@ -6,7 +6,7 @@ I’m a systems-oriented engineer who thinks beyond syntax — I design and impl
 
 ---
 
-## 💼 What I Bring
+## 💼 What I Offer
 
 - ⚙️ Scalable, production-ready system design  
 - ⚡ Performance optimization & reliability engineering  
